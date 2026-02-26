@@ -9,3 +9,4 @@ tambien debes tener un editor de codigo
 
 # author
 este proyecto fue creado por Hender Escorcia
+FREE
